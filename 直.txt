@@ -1,3 +1,13 @@
+🥇奥运频道,#genre#
+实时奥运金牌榜,http://159.75.85.63:35455/douyin/855933386558
+巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
+TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/HD/index.m3u8
+CCTV-16奥林匹克,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024083703.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:30168/632350a5000deee324e2a2bc22a37dd9#p3p://108.181.32.169:37861/642610a2000b33ebee0a7d6c26c160b2#P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
+CCTV-5+体育赛事,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:30168/6323522b0000ad5c24e892c57ad041c7#p3p://108.181.32.169:37861/64260cbc00081417edfb42307c984dd4#P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
+CCTV-5奥运体育,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078403.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:30168/62c2e10a000954acac332b30611a0e9d#p3p://108.181.32.169:37861/64260cb0000afd53edfb140f10811127#P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
+CCTV-5奥运体育,http://tptv1.mobaibox.com/alcdnbacksourceflag_223.110.243.201:80/PLTV/4/224/3221228502/1.m3u8?accountinfo=9FI0YN4im9p9mqwUg8r4dw9Tq1%2FnkxhN31zsoFvGmxK48ClNCZpKa2J%2BvetU%2F9Cq3W3fUGrFDTXLZAK5xxW0l3Zw7QRRv6j9Nm7GCr2bPoypyIyq7Yd%2B%2FoThl3shrqDLRiUhXTPxHRgMyznyXBGqvQ%3D%3D%3A20240724145949%2C66a0a665056c0%2C112.25.7.219%2C20240724145949%2CG_CCTV-5-AVS-4K264%2C31901BE5D5B4C7C9B2132CA5C38E3623%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
+CCTV-4K超高清,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8K超高清,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2020603421.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
